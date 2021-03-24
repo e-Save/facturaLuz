@@ -259,6 +259,7 @@ a {
   color: #3e3e3e;
   border-collapse:separate;
   border-spacing: 0 15px;
+  padding-bottom: 50px;
 }
 
 .tabla_servicios .contenido{
