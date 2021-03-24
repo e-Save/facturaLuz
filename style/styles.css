@@ -246,11 +246,25 @@ a {
   background: #e6e6e670;
 }
 
-.descripcion-servicios{
+
+
+
+/* Servicios */
+
+/* tabla servicios */
+
+.tabla_servicios{
   text-align: left;
-  font-size: 25px;
-  padding: 0 50px;
+  font-size: larger;
+  color: #3e3e3e;
+  border-collapse:separate;
+  border-spacing: 0 15px;
 }
+
+.tabla_servicios .contenido{
+  padding-left: 15px;
+}
+
 
 /* 768px */
 
