@@ -242,7 +242,6 @@ a {
 }
 
 .importe-total{
-  min-height: calc(100vh - 93px);
   background: #e6e6e670;
 }
 
@@ -268,6 +267,7 @@ a {
 
 .padding-header{
   padding-top: 95px;
+  min-height: calc(100vh - 95px);
 }
 
 
